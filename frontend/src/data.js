@@ -23,7 +23,7 @@ const data = {
       brand: 'Marvel',
       rating: 4.8,
       numReviews: 18,
-      description: 'El comic que cuenta el origen de Wolverine',
+      description: 'El comic que cuenta el origen de Wolverine.',
     },
     //tercer producto
     {

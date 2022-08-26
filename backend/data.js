@@ -46,7 +46,7 @@ const data = {
       category: 'Comics',
       image: '/images/p4.jpg',
       price: 4720,
-      countInStock: 5,
+      countInStock: 0,
       brand: 'Marvel',
       rating: 5,
       numReviews: 28,
