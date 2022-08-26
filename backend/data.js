@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      name: 'Spider-Man: Entre los Muertos',
+      name: 'SpiderMan Entre los Muertos',
       slug: 'Comic-Spiderman',
       category: 'Comics',
       image: '/images/p1.jpg',
@@ -14,7 +14,7 @@ const data = {
     },
     //segundo producto
     {
-      name: 'Lobezno: Origen',
+      name: 'Lobezno Origen',
       slug: 'Comic-Lobezno',
       category: 'Comics',
       image: '/images/p2.jpg',
